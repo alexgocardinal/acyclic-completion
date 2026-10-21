@@ -1,0 +1,6 @@
+name = "AcyclicCompletion"
+version = "0.1.0"
+defaultTargets = ["AcyclicCompletion"]
+
+[[lean_lib]]
+name = "AcyclicCompletion"
